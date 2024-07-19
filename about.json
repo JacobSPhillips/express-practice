@@ -1,0 +1,26 @@
+{
+    "jacob": {
+        "name": "Jacob",
+        "height": "6'2",
+        "description": "A college student that enjoys programming, movies, and sports. He has good friends.",
+        "age": 20
+    },
+    "scott": {
+        "name": "Scott",
+        "height": "6'0",
+        "description": "A pastor that loves the Lord and loves bringing people to the lord. Also very clever.",
+        "age": 49
+    },
+    "karin": {
+        "name": "Karin",
+        "height": "5'4",
+        "description": "A loving mother that will do anything for her kids. The most compassionate woman ever.",
+        "age": 50
+    },
+    "maggie": {
+        "name": "Mags",
+        "height": "6'2",
+        "description": "A med school student unlike any other. Loves to have fun and be with friends.",
+        "age": 22
+    }
+}
